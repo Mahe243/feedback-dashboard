@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "category": "Product",
+    "feedback": "The product quality is outstanding! Really happy with my purchase.",
+    "rating": 5,
+    "polarity": 0.713,
+    "subjectivity": 0.938,
+    "sentiment": "Positive",
+    "timestamp": "2024-01-01 10:00:00"
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "category": "Support",
+    "feedback": "Support team was slow to respond. Took 3 days to get a reply.",
+    "rating": 2,
+    "polarity": -0.3,
+    "subjectivity": 0.4,
+    "sentiment": "Negative",
+    "timestamp": "2024-02-04 10:00:00"
+  },
+  {
+    "id": 3,
+    "name": "Carol Davis",
+    "category": "Delivery",
+    "feedback": "Delivery was super fast and packaging was perfect.",
+    "rating": 5,
+    "polarity": 0.511,
+    "subjectivity": 0.756,
+    "sentiment": "Positive",
+    "timestamp": "2024-03-07 10:00:00"
+  },
+  {
+    "id": 4,
+    "name": "David Lee",
+    "category": "Product",
+    "feedback": "Average product. Nothing special but does the job.",
+    "rating": 3,
+    "polarity": 0.104,
+    "subjectivity": 0.486,
+    "sentiment": "Positive",
+    "timestamp": "2024-04-10 10:00:00"
+  },
+  {
+    "id": 5,
+    "name": "Eva Martinez",
+    "category": "Support",
+    "feedback": "Absolutely terrible customer service experience.",
+    "rating": 1,
+    "polarity": -1.0,
+    "subjectivity": 1.0,
+    "sentiment": "Negative",
+    "timestamp": "2024-05-13 10:00:00"
+  },
+  {
+    "id": 6,
+    "name": "Frank Wilson",
+    "category": "Delivery",
+    "feedback": "Package arrived late and was damaged. Very disappointed.",
+    "rating": 1,
+    "polarity": -0.638,
+    "subjectivity": 0.788,
+    "sentiment": "Negative",
+    "timestamp": "2024-06-16 10:00:00"
+  },
+  {
+    "id": 7,
+    "name": "Grace Kim",
+    "category": "Product",
+    "feedback": "Love it! Best purchase I have made this year.",
+    "rating": 5,
+    "polarity": 0.812,
+    "subjectivity": 0.45,
+    "sentiment": "Positive",
+    "timestamp": "2024-07-19 10:00:00"
+  },
+  {
+    "id": 8,
+    "name": "Henry Brown",
+    "category": "Support",
+    "feedback": "The support team was incredibly helpful and resolved my issue instantly.",
+    "rating": 5,
+    "polarity": 0.45,
+    "subjectivity": 0.783,
+    "sentiment": "Positive",
+    "timestamp": "2024-08-22 10:00:00"
+  },
+  {
+    "id": 9,
+    "name": "Irene Clark",
+    "category": "Delivery",
+    "feedback": "Neutral experience. Delivery was on time, nothing more.",
+    "rating": 3,
+    "polarity": 0.5,
+    "subjectivity": 0.5,
+    "sentiment": "Positive",
+    "timestamp": "2024-09-25 10:00:00"
+  },
+  {
+    "id": 10,
+    "name": "James White",
+    "category": "Product",
+    "feedback": "Product broke after a week. Horrible quality.",
+    "rating": 1,
+    "polarity": -1.0,
+    "subjectivity": 1.0,
+    "sentiment": "Negative",
+    "timestamp": "2024-01-28 10:00:00"
+  }
+]
