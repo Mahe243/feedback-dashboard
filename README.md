@@ -78,3 +78,10 @@ The app opens automatically at → **http://localhost:8501**
 - **Plotly** — Interactive charts
 - **Pandas** — Data manipulation
 - **JSON** — Lightweight local storage
+
+## Proof of Execution
+<img width="1403" height="929" alt="Screenshot 2026-07-03 153949" src="https://github.com/user-attachments/assets/ae4b05da-e1ff-486c-ba9a-352ac642eb05" />
+<img width="1465" height="749" alt="Screenshot 2026-07-03 153937" src="https://github.com/user-attachments/assets/011b3c4a-43a3-47d8-af70-2167cbf3f442" />
+<img width="1432" height="701" alt="Screenshot 2026-07-03 153924" src="https://github.com/user-attachments/assets/01b55012-059f-4252-804d-908d86b6277b" />
+<img width="1833" height="530" alt="Screenshot 2026-07-03 153913" src="https://github.com/user-attachments/assets/d96b49fc-ff97-4620-aef5-dd4b4092c784" />
+
