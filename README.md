@@ -2,6 +2,11 @@
 
 A Streamlit app with real-time sentiment analysis using **TextBlob** and interactive charts via **Plotly**.
 
+## 🌐 Live Demo
+
+**Try the live application here:**  
+https://feedback-dashboard-8pxjp5jetwn5emryki4xms.streamlit.app/
+
 ---
 
 ## 📁 Project Structure
@@ -84,4 +89,3 @@ The app opens automatically at → **http://localhost:8501**
 <img width="1465" height="749" alt="Screenshot 2026-07-03 153937" src="https://github.com/user-attachments/assets/011b3c4a-43a3-47d8-af70-2167cbf3f442" />
 <img width="1432" height="701" alt="Screenshot 2026-07-03 153924" src="https://github.com/user-attachments/assets/01b55012-059f-4252-804d-908d86b6277b" />
 <img width="1833" height="530" alt="Screenshot 2026-07-03 153913" src="https://github.com/user-attachments/assets/d96b49fc-ff97-4620-aef5-dd4b4092c784" />
-
